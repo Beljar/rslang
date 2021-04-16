@@ -1,6 +1,6 @@
 # rslang
 rsschool-react app for studying English  
-My role:  
+## My role:  
 * https://github.com/Beljar/rslang/tree/2-authorization
 * https://github.com/Beljar/rslang/tree/31-statistics
 * https://github.com/Beljar/rslang/tree/51-new-main-page
