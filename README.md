@@ -1,5 +1,5 @@
 # rslang
-rsschool-react app for studying English
+rsschool-react app for studying English  
 My role:  
 * https://github.com/Beljar/rslang/tree/2-authorization
 * https://github.com/Beljar/rslang/tree/31-statistics
